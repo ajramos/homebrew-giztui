@@ -14,7 +14,7 @@
 # still opens without the manual right-click → Open dance.
 cask "giztui-desktop" do
   version "1.21.0"
-  sha256 "49318d421fdaca84d1363786fb1cda65f8062ef5c6d988c5446286c54e54a611"
+  sha256 "2f0e18676f5da3076ceb9fc5c1b36aa5f68048e63776aba2de033de82115a6eb"
 
   url "https://github.com/ajramos/giztui/releases/download/v#{version}/GizTUI-Desktop-#{version}-universal.dmg"
   name "GizTUI Desktop"
