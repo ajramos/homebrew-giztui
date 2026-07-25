@@ -13,8 +13,8 @@
 # unsigned; Homebrew strips the quarantine attribute on cask installs, so it
 # still opens without the manual right-click → Open dance.
 cask "giztui-desktop" do
-  version "1.21.0"
-  sha256 "2f0e18676f5da3076ceb9fc5c1b36aa5f68048e63776aba2de033de82115a6eb"
+  version "1.22.0"
+  sha256 "ce859ff0ec3d9b625247a5e5e2a316710c148a7064db0f1cebbefa776d47eeea"
 
   url "https://github.com/ajramos/giztui/releases/download/v#{version}/GizTUI-Desktop-#{version}-universal.dmg"
   name "GizTUI Desktop"
