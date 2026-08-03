@@ -1,6 +1,6 @@
 cask "giztui-desktop" do
-  version "1.24.0"
-  sha256 "97a0048c34d54fd25224dd77257985617e2819beeba7aaa027183877d9fe743e"
+  version "1.25.0"
+  sha256 "f8b5d2ea5c9d18eacf68c303dc4b2ee07b099e44d5d55e16d27d25133498045a"
 
   url "https://github.com/ajramos/giztui/releases/download/v#{version}/GizTUI-Desktop-#{version}-universal.dmg"
   name "GizTUI Desktop"
